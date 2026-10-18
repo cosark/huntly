@@ -118,6 +118,10 @@ See the [Run the Server wiki](https://github.com/lcomplete/huntly/wiki/Run-the-S
 
 **Enjoy it!**
 
+## One-Click Deploy
+
+[![Deploy on RepoCloud](https://d16t0pc4846x52.cloudfront.net/deploylobe.svg)](https://repocloud.io/details/Huntly/)
+
 ## Contributing
 
 Contributions are welcome.

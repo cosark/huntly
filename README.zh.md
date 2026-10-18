@@ -118,6 +118,10 @@ sudo xattr -r -d com.apple.quarantine /YOUR_PATH/Huntly.app
 
 **尽情享受吧！**
 
+## 一键部署
+
+[![Deploy on RepoCloud](https://d16t0pc4846x52.cloudfront.net/deploylobe.svg)](https://repocloud.io/details/Huntly/)
+
 ## 参与贡献
 
 欢迎提交贡献。
